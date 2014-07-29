@@ -25,4 +25,4 @@ while True:
                         print "Esta palabra no es palindrome pues alreves se escribe asi:",b
         elif n.strip() == 'FIN':
                 print "Gracias por usar el programa"
-                break
+                break 
