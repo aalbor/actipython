@@ -8,4 +8,4 @@ def factorial(x):
     return num
 
 x = int(input("Dame el numero del que deseas su factorial: "))
-print "El factorial de", x ,"es:",factorial(x)
+print "El factorial de", x ,"es:",factorial(x) 
