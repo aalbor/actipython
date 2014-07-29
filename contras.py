@@ -16,4 +16,4 @@ while True:
                 print contra,'*',cont(),'*'
                 break
         if n.strip() == 'NO':
-                contra = raw_input("Dame la contrasena que deseas tener: ")
+                contra = raw_input("Dame la contrasena que deseas tener: ") 
