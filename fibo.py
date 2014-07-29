@@ -24,4 +24,4 @@ while True:
                         print a.next(),
         elif n.strip() == 'FIN':
                 print "Gracias por usar el programa"
-                break
+                break 
