@@ -18,4 +18,4 @@ while True:
                 print usuario,'*',usu(usuario),'*'
                 break
         if n.strip() == 'NO':
-                usuario = raw_input("Dame un nombre de usuario: ")
+                usuario = raw_input("Dame un nombre de usuario: ") 
