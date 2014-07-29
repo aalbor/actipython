@@ -17,4 +17,4 @@ if x == True:
 elif x == False:
         print b, "Es mayor que", a
 else:
-        print x
+        print x 
